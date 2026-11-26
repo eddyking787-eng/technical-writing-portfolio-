@@ -58,3 +58,24 @@ Available Services
 - Restart your device.
 - Check your internet connection.
 - Update the application if an update is available.
+Frequently Asked Questions (FAQ)
+
+1. What is EasyPay?
+
+EasyPay is a mobile banking application that provides money transfers, airtime and data purchases, electricity bill payments, and loan services.
+
+2. Can I transfer money to other banks?
+
+Yes. Users can transfer money within Nigeria.
+
+3. What do I need to create an account?
+
+You need a valid phone number, a stable internet connection, and valid identification.
+
+4. What should I do if my transaction fails?
+
+Check your transaction history and account balance. If the problem continues, contact customer support.
+
+5. Can I purchase airtime and data?
+
+Yes. EasyPay supports airtime and mobile data subscriptions.
